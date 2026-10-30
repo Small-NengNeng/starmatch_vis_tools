@@ -1,0 +1,50 @@
+# Local catalogs, downloads and experiment outputs
+/local_data/
+/stardb_download/
+/starcatalogs/
+/2mass_tiles5/
+/2mass_tile5/
+/2mass_simple/
+/img_input/
+/visresult/
+/output/
+/outputs/
+/results/
+# Build artifacts and environments
+/build/
+/dist/
+/.devtools/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+*.exe
+*.dll
+*.pyd
+# Runtime state
+/user_params.json
+/user_params.json.tmp
+*.log
+# Editor and OS files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+# Credentials (examples are safe to version)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json

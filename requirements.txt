@@ -1,0 +1,11 @@
+# Direct dependencies tested on Windows / Python 3.11.
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+astropy==8.0.2
+h5py==3.16.0
+colorama==0.4.6
+matplotlib==3.11.2
+cartopy==0.26.0
+wget==3.2
+tqdm==4.70.1

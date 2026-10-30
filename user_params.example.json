@@ -1,0 +1,15 @@
+{
+  "catalog_path": "local_data/starcatalogs/simplified/demo/res5/mag15.0/epoch2000.0/",
+  "h": 1024,
+  "w": 1024,
+  "dh_angle": 0.0098,
+  "dw_angle": 0.0098,
+  "ra": 90,
+  "dec": 0,
+  "search_radius": 10,
+  "mag": 15,
+  "max_count": "",
+  "theta": 0,
+  "dx": 0,
+  "dy": 0
+}
